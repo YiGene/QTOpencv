@@ -1,0 +1,2 @@
+OpenCV与Qt的环境搭建及Demo
+Qt在Windows环境下有两种编译方式，MinGW和msvc。msvc就是微软的VC运行库，只要安装了Visual Studio就自带了，在编译速度上比较有优势。缺点是，采用msvc编译的话，需要单独安装cdb调试工具，才能在Qt中进行单步调试
